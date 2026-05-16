@@ -22,6 +22,5 @@ This project implements a unique **two-stage hybrid pipeline**:
 
 ---
 
-## 🏗️ Pipeline Architecture
 
 The model workflow consists of the following consecutive stages:
